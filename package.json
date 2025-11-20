@@ -23,7 +23,7 @@
     "directory": "packages/tanstack-solid-start"
   },
   "license": "MIT",
-  "author": "Clerk",
+  "author": "Clerk Community",
   "sideEffects": false,
   "type": "module",
   "exports": {

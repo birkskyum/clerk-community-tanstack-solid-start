@@ -13,14 +13,13 @@
     "session",
     "jwt"
   ],
-  "homepage": "https://clerk.com/",
+  "homepage": "https://github.com/birkskyum/clerk-community-tanstack-solid-start#readme",
   "bugs": {
-    "url": "https://github.com/clerk/javascript/issues"
+    "url": "https://github.com/birkskyum/clerk-community-tanstack-solid-start/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clerk/javascript.git",
-    "directory": "packages/tanstack-solid-start"
+    "url": "git+https://github.com/birkskyum/clerk-community-tanstack-solid-start.git"
   },
   "license": "MIT",
   "author": "Clerk Community",
